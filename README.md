@@ -13,7 +13,7 @@ A public website for an industrial company, designed to present the company, its
 - Providing general information pages and enquiry/contact options
 - A responsive, accessible experience on mobile and desktop
 
-This page is a general, anonymous summary only. It deliberately contains no client name, domain, business data, or confidential detail.
+This page is a general, anonymous summary only. Client data, business details, and confidential information are not included on this page.
 
 ## Why the code is not published
 
