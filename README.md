@@ -1,4 +1,4 @@
-# Industrial Company Website
+# semchemical.com — Website
 
 **Built by Hamidreza Lotfi — 2026**
 
